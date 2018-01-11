@@ -1,6 +1,6 @@
 # Site settings
 title: "Ryan Barley's Resume"
-description: "Jekyll resume for Githun."
+description: "Jekyll resume for Github."
 
 # Build settings
 markdown: kramdown
