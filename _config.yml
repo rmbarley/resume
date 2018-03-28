@@ -40,7 +40,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/rmbarley"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://ryanbarley.com"
+  resume_website_url:           "http://ryanbarley.tech"
 
 # Design settings
 resume_theme:                   default
